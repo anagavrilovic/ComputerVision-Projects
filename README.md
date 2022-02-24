@@ -23,3 +23,4 @@ This repository contains four mini projects for senior year course Soft Computin
 - OpenCV for image preprocessing for extracting ID cards and text from the image
 - Using Tesseract OCR for reading text from the image
 - Postprocessing results from Tesseract to match corresponding data of ID card for three types of cards
+
